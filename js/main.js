@@ -5,7 +5,7 @@ let thePercentage = document.getElementById('thePercentage');
 let userName = prompt('Welcome My friend Let\'s see if you know information about the website\'s author Firstly Enter Your name please ').toUpperCase();
 
 // alert contains the instructions
-alert('Welcome Mr/Ms : ' + userName + '\nPLEASE ANSWER The Upcoming questions WITH "YES" OR "NO" ONLY, don\'t worry about the letters case ');
+alert('Welcome Mr/Ms : ' + userName + '\nPLEASE ANSWER The Upcoming questions WITH "YES/Y" OR "NO/N" ONLY, don\'t worry about the letters case ');
 
 //The function of question 1
 function question1() {
